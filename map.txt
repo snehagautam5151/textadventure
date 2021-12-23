@@ -1,0 +1,5 @@
+|||LeaveBuilding|
+||EmptyHall|ZombiesRoom|
+||EmptyHall||
+||MonkeyRoom||EmptyHall||MonsterRoom||
+CrocodileRoom|EmptyHall|StartingRoom|EmptyHall|DaggerRoom

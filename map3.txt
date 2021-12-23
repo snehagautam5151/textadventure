@@ -1,0 +1,10 @@
+|||ExitDesert||||
+||EmptyWay|BadManRoom|WaterFall
+|ExitFromCave|NinjaAttackRoom|Strom|BadBeeRoom
+||EnterInCave|DesertCretureRoom|Smallpotion|CavePath|
+||LargePotion|Fire|ScorpioRoom
+||||SnakeRoom||GiantSpiderRoom
+||||||BottelOfWater
+||||||DaggerRoom
+||||||CamelRide
+||||||EnterInDesert|
